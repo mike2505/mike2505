@@ -1,4 +1,4 @@
-### About Me  💬
+### About Me
 
 Welcome to my Github profile ✨<br>
 I am a Back-End Developer, Cyber Security Enthusiast and just a good person 😄
@@ -7,7 +7,7 @@ I am a Back-End Developer, Cyber Security Enthusiast and just a good person 😄
 - 🔭 I'm currently working on GNLP (Georgian Natural Language Processing) & TAO (Gteorgian Home Assistant)
 - 🌱 I’m currently learning Java for android development
 
-### How to reach me  📫
+### How to reach me
 - [Facebook](https://www.facebook.com/dmtzho)<br>
 - [Reddit](https://www.reddit.com/user/mikef0x)
 
