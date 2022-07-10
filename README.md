@@ -4,7 +4,7 @@ Welcome to my Github profile ✨<br>
 I am a Back-End Developer, Cyber Security Enthusiast and just a good person 😄
 
 
-- 🔭 I'm currently working on GNLP (Georgian Natural Language Processing) & TAO (Gteorgian Home Assistant)
+- 🔭 I'm currently working on GNLP (Georgian Natural Language Processing) & TAO (Georgian Home Assistant)
 - 🌱 I’m currently learning Java for android development
 
 ### How to reach me
