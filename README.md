@@ -1,15 +1,14 @@
 ### About Me
 
 Welcome to my Github profile ✨<br>
-I am a 18 years old Back-End Developer, Cyber Security Enthusiast and just a good person 😄
+As an 18-year-old Python developer specializing in backend development, with a strong focus on Django and Flask frameworks, I am constantly striving to enhance my skills and stay ahead of industry trends. I am driven by my passion for programming and dedicated to delivering high-quality code and solutions that cater to the unique requirements of clients. In addition to my backend expertise, I also have a keen interest in cybersecurity and possess the skills to identify and address vulnerabilities, ensuring the security of my projects. Moreover, I have extensive experience in Linux administration, allowing me to efficiently manage systems and infrastructure, optimizing performance and maximizing efficiency. Overall, I am a dedicated and resourceful professional committed to achieving excellence in all aspects of my work as a Python developer, particularly in the backend realm using frameworks like Django and Flask.
 
 
-- 🔭 I'm currently working on GNLP (Georgian Natural Language Processing) & TAO (Georgian Home Assistant)
-- 🌱 I’m currently learning Java for android development
+- 🔭 I'm currently working on Flask Validators
 
 ### How to reach me
 - [Facebook](https://www.facebook.com/dmtzho)<br>
-- [Reddit](https://www.reddit.com/user/mikef0x)
+- [Linkedin](https://www.linkedin.com/in/dimitri-jorjoliani/)
 
 <!--
 **mike2505/mike2505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
