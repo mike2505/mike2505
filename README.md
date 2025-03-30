@@ -1,10 +1,10 @@
 ### About Me
 
 Welcome to my Github profile ✨<br>
-As an 18-year-old Python developer specializing in backend development, with a strong focus on Django and Flask frameworks, I am constantly striving to enhance my skills and stay ahead of industry trends. I am driven by my passion for programming and dedicated to delivering high-quality code and solutions that cater to the unique requirements of clients. In addition to my backend expertise, I also have a keen interest in cybersecurity and possess the skills to identify and address vulnerabilities, ensuring the security of my projects. Moreover, I have extensive experience in Linux administration, allowing me to efficiently manage systems and infrastructure, optimizing performance and maximizing efficiency. Overall, I am a dedicated and resourceful professional committed to achieving excellence in all aspects of my work as a Python developer, particularly in the backend realm using frameworks like Django and Flask.
+As an 20-year-old Python developer specializing in backend development, with a strong focus on Django and Flask frameworks, I am constantly striving to enhance my skills and stay ahead of industry trends. I am driven by my passion for programming and dedicated to delivering high-quality code and solutions that cater to the unique requirements of clients. In addition to my backend expertise, I also have a keen interest in cybersecurity and possess the skills to identify and address vulnerabilities, ensuring the security of my projects. Moreover, I have extensive experience in Linux administration, allowing me to efficiently manage systems and infrastructure, optimizing performance and maximizing efficiency. Overall, I am a dedicated and resourceful professional committed to achieving excellence in all aspects of my work as a Python developer, particularly in the backend realm using frameworks like Django and Flask.
 
 
-- 🔭 I'm currently working on Flask Validators
+- 🔭 I'm currently working on AI agents
 
 ### How to reach me
 - [Facebook](https://www.facebook.com/dmtzho)<br>
